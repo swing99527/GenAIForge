@@ -1,0 +1,48 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" rx="32" fill="url(#paint0_linear)"/>
+  <rect x="120" y="120" width="560" height="360" rx="28" fill="white" opacity="0.95"/>
+  <g filter="url(#shadow1)">
+    <rect x="180" y="180" width="440" height="120" rx="24" fill="url(#paint1_linear)"/>
+  </g>
+  <g filter="url(#shadow2)">
+    <rect x="200" y="340" width="210" height="120" rx="24" fill="white"/>
+    <rect x="390" y="300" width="230" height="140" rx="28" fill="#1952FF" fill-opacity="0.12"/>
+  </g>
+  <circle cx="240" cy="400" r="36" fill="#1952FF"/>
+  <path d="M228 394H252" stroke="white" stroke-width="8" stroke-linecap="round"/>
+  <path d="M240 386C247 386 252 391 252 398V402" stroke="white" stroke-width="8" stroke-linecap="round"/>
+  <path d="M440 340H520" stroke="#1952FF" stroke-width="8" stroke-linecap="round"/>
+  <path d="M440 370H560" stroke="#1952FF" stroke-width="8" stroke-linecap="round" opacity="0.8"/>
+  <path d="M440 400H540" stroke="#1952FF" stroke-width="8" stroke-linecap="round" opacity="0.6"/>
+  <path d="M220 214H580" stroke="white" stroke-width="10" stroke-linecap="round" opacity="0.4"/>
+  <path d="M220 214C240 190 280 170 320 170C360 170 400 190 420 214" stroke="white" stroke-width="10" stroke-linecap="round" opacity="0.6"/>
+  <path d="M520 214C540 190 580 170 620 170" stroke="white" stroke-width="10" stroke-linecap="round" opacity="0.6"/>
+  <circle cx="320" cy="214" r="26" fill="white" fill-opacity="0.9"/>
+  <circle cx="520" cy="214" r="26" fill="white" fill-opacity="0.9"/>
+  <path d="M320 206V222" stroke="#1952FF" stroke-width="6" stroke-linecap="round"/>
+  <path d="M520 206V222" stroke="#1952FF" stroke-width="6" stroke-linecap="round"/>
+  <path d="M306 212H334" stroke="#1952FF" stroke-width="6" stroke-linecap="round"/>
+  <path d="M506 212H534" stroke="#1952FF" stroke-width="6" stroke-linecap="round"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="60" y1="60" x2="740" y2="540" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F4FBFF"/>
+      <stop offset="1" stop-color="#DAEFFF"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear" x1="180" y1="180" x2="540" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1952FF" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#5A7CFF" stop-opacity="0.85"/>
+    </linearGradient>
+    <filter id="shadow1" x="150" y="150" width="500" height="180" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feOffset dy="16"/>
+      <feGaussianBlur stdDeviation="18"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0.2 0 0 0 0 0.5 0 0 0 0.25 0"/>
+      <feBlend in2="SourceGraphic" result="shape"/>
+    </filter>
+    <filter id="shadow2" x="180" y="300" width="460" height="200" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feOffset dy="12"/>
+      <feGaussianBlur stdDeviation="14"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0.16 0 0 0 0 0.45 0 0 0 0.18 0"/>
+      <feBlend in2="SourceGraphic" result="shape"/>
+    </filter>
+  </defs>
+</svg>

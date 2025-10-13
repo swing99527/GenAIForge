@@ -1,0 +1,32 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" rx="32" fill="url(#paint0_linear)"/>
+  <rect x="140" y="140" width="520" height="320" rx="28" fill="white" opacity="0.95"/>
+  <g filter="url(#shadow1)">
+    <rect x="200" y="200" width="400" height="200" rx="24" fill="#0F172A" fill-opacity="0.92"/>
+    <path d="M352 260L432 300L352 340V260Z" fill="white"/>
+  </g>
+  <rect x="220" y="420" width="360" height="24" rx="12" fill="#1952FF" opacity="0.3"/>
+  <circle cx="260" cy="432" r="18" fill="#1952FF"/>
+  <circle cx="320" cy="432" r="12" fill="#1952FF" opacity="0.7"/>
+  <circle cx="380" cy="432" r="12" fill="#1952FF" opacity="0.5"/>
+  <rect x="200" y="180" width="400" height="12" rx="6" fill="#1952FF" opacity="0.5"/>
+  <circle cx="240" cy="186" r="6" fill="#1952FF"/>
+  <circle cx="260" cy="186" r="6" fill="#1952FF"/>
+  <circle cx="280" cy="186" r="6" fill="#1952FF"/>
+  <path d="M220 240H280" stroke="#38BDF8" stroke-width="10" stroke-linecap="round"/>
+  <path d="M520 240H580" stroke="#38BDF8" stroke-width="10" stroke-linecap="round"/>
+  <path d="M220 360H280" stroke="#38BDF8" stroke-width="10" stroke-linecap="round"/>
+  <path d="M520 360H580" stroke="#38BDF8" stroke-width="10" stroke-linecap="round"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="80" y1="80" x2="720" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F5F3FF"/>
+      <stop offset="1" stop-color="#E0E7FF"/>
+    </linearGradient>
+    <filter id="shadow1" x="180" y="180" width="440" height="260" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feOffset dy="14"/>
+      <feGaussianBlur stdDeviation="20"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0.2 0 0 0 0 0.45 0 0 0 0.22 0"/>
+      <feBlend in2="SourceGraphic" result="shape"/>
+    </filter>
+  </defs>
+</svg>
