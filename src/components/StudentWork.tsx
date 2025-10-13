@@ -11,13 +11,15 @@ const studentWorks = [
     id: 2,
     title: "智能客服机器人",
     description: "企业知识库 → RAG问答系统",
-    imageUrl: "https://images.unsplash.com/photo-1580894906472-2a4dbb7eae8c?w=800",
+    imageUrl:
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=80",
   },
   {
     id: 3,
     title: "视频内容自动化",
     description: "脚本 → AI视频 → 批量输出",
-    imageUrl: "https://images.unsplash.com/photo-1522199865574-6ffb6f29c1fa?w=800",
+    imageUrl:
+      "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=800&q=80",
   },
   {
     id: 4,
