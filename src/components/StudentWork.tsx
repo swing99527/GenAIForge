@@ -5,37 +5,37 @@ const studentWorks = [
     id: 1,
     title: "AI营销素材生成",
     description: "电商产品图 → 10套营销海报",
-    imageUrl: "https://images.unsplash.com/photo-1663153204638-bfce85406499?w=800",
+    imageUrl: "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=800",
   },
   {
     id: 2,
     title: "智能客服机器人",
     description: "企业知识库 → RAG问答系统",
-    imageUrl: "https://images.unsplash.com/photo-1757437677475-4e08c6128862?w=800",
+    imageUrl: "https://images.unsplash.com/photo-1580894906472-2a4dbb7eae8c?w=800",
   },
   {
     id: 3,
     title: "视频内容自动化",
     description: "脚本 → AI视频 → 批量输出",
-    imageUrl: "https://images.unsplash.com/photo-1746608943132-065d1d4b3c5d?w=800",
+    imageUrl: "https://images.unsplash.com/photo-1522199865574-6ffb6f29c1fa?w=800",
   },
   {
     id: 4,
     title: "办公自动化报告",
     description: "数据导入 → 自动生成分析报告",
-    imageUrl: "https://images.unsplash.com/photo-1728933102332-a4f1a281a621?w=800",
+    imageUrl: "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?w=800",
   },
   {
     id: 5,
     title: "多模态内容创作",
     description: "文本+图像+视频联动生成",
-    imageUrl: "https://images.unsplash.com/photo-1758413350815-7b06dbbfb9a7?w=800",
+    imageUrl: "https://images.unsplash.com/photo-1520174691701-bc555a3404ca?w=800",
   },
   {
     id: 6,
     title: "Agent工作流",
     description: "多智能体协作完成复杂任务",
-    imageUrl: "https://images.unsplash.com/photo-1733222765056-b0790217baa9?w=800",
+    imageUrl: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800",
   },
 ];
 
