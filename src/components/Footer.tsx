@@ -12,7 +12,7 @@ export function Footer() {
               <p className="text-sm text-[#6B8AFF]">GenAI Forge</p>
             </div>
             <p className="text-gray-400 leading-relaxed mb-6">
-              汕头智能创新实验室出品，专注于生成式AI技术研究与应用落地，致力于培养具备AI实战能力的专业人才，推动本地产业智能化升级。
+              汕头人工智能实验室出品，专注于生成式AI技术研究与应用落地，致力于培养具备AI实战能力的专业人才，推动本地产业智能化升级。
             </p>
             <div className="space-y-3 text-gray-400">
               <div className="flex items-center gap-3">
@@ -55,7 +55,7 @@ export function Footer() {
         
         <div className="pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-gray-500 text-sm">
-            © 2025 创智营 GenAI Forge · 汕头智能创新实验室. 保留所有权利.
+            © 2025 创智营 GenAI Forge · 汕头人工智能实验室. 保留所有权利.
           </p>
           <div className="flex gap-6 text-sm text-gray-500">
             <a href="#" className="hover:text-[#1952FF] transition-colors">隐私政策</a>
