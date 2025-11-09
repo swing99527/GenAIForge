@@ -39,7 +39,7 @@ export function Hero() {
               <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-[#12B886] opacity-75"></span>
               <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-[#12B886]"></span>
             </span>
-            <span className="text-white/90">汕头智能创新实验室出品</span>
+            <span className="text-white/90">汕头人工智能实验室出品</span>
           </div>
           
           {/* Main Heading with enhanced styling */}
