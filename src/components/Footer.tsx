@@ -21,11 +21,11 @@ export function Footer() {
               </div>
               <div className="flex items-center gap-3">
                 <Mail className="h-5 w-5 text-[#1952FF]" />
-                <span>contact@stailab.com</span>
+                <span>public@lingbrain.com</span>
               </div>
               <div className="flex items-center gap-3">
                 <Phone className="h-5 w-5 text-[#1952FF]" />
-                <span>400-xxx-xxxx</span>
+                <span>+8613643065979</span>
               </div>
             </div>
           </div>
